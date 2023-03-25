@@ -846,12 +846,12 @@ i.iconfont {
   --line-color: #2f2d2d;
   --navbar-bg-color: #A9927D;
   --navbar-text-color: #fff;
-  --subtitle-color: #fff;
+  --subtitle-color: #F3F0E2;
   --scrollbar-color: #c4c6c9;
   --scrollbar-hover-color: #a6a6a6;
   --button-bg-color: transparent;
   --button-hover-bg-color: #f2f3f5;
-  --highlight-bg-color: #f6f8fa;
+  --highlight-bg-color: #303030;
   --inlinecode-bg-color: rgba(175,184,193,0.2);
 }
 @media (prefers-color-scheme: dark) {
