@@ -766,12 +766,12 @@ sup > a::before,
 }
 html {
   font-size: 16px;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.03em;
 }
 html,
 body {
   height: 100%;
-  font-family: var(--font-family-sans-serif);
+  font-family: monospace;
   overflow-wrap: break-word;
 }
 body {
@@ -846,7 +846,7 @@ i.iconfont {
   --line-color: #2f2d2d;
   --navbar-bg-color: #A9927D;
   --navbar-text-color: #fff;
-  --subtitle-color: #000;
+  --subtitle-color: #424200;
   --scrollbar-color: #c4c6c9;
   --scrollbar-hover-color: #a6a6a6;
   --button-bg-color: transparent;
@@ -1319,7 +1319,7 @@ figure.highlight td.code > pre {
 .markdown-body {
   font-size: 1rem;
   line-height: 1.6;
-  font-family: var(--font-family-sans-serif);
+  font-family: monospace;
   margin-bottom: 2rem;
   color: var(--post-text-color);
 }
